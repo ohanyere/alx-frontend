@@ -1,0 +1,4 @@
+/* Enable a fluid scroll behavior for the HTML element */
+html {
+  scroll-behavior: smooth;
+}
